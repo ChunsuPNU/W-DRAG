@@ -1,5 +1,5 @@
 # WDRAG
-Personal pytorch implementation of W-DRAG: A joint framework of WGAN with data random augmentation
+Pytorch implementation of W-DRAG: A joint framework of WGAN with data random augmentation
 optimized for generative networks for bone marrow edema detection in dual energy CT
 
 ## Abstract
